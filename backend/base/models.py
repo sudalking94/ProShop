@@ -5,7 +5,7 @@ from django.db.models.deletion import CASCADE, SET_NULL
 
 
 class Product(models.Model):
-    image = models.ImageField(null=True, blank=True)
+    image = models.ImageField(null=True, blank=True, default="/placeholder.png")
     user = models.ForeignKey(User, on_delete=models.SET_NULL, null=True)
     name = models.CharField(max_length=200, null=True, blank=True)
     brand = models.CharField(max_length=200, null=True, blank=True)
