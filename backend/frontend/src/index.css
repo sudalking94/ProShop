@@ -24,11 +24,7 @@ a:hover {
 }
 
 /* carousel */
-.carousel-item-next,
-.carousel-item-prev,
-.carousel-item.active {
-  display: flex;
-}
+
 .carousel-caption {
   position: absolute;
   top: 0;
