@@ -25,6 +25,7 @@
 
 ```
 $ git clone https://github.com/sudalking94/ProShop/
+# 설치한 폴더로 이동
 $ pipenv sync
 $ pipenv shell
 $ cd backend
