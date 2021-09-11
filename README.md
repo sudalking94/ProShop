@@ -1,7 +1,7 @@
 # 기능
 
 - 회원가입
-- 로그인
+- JWT token 인증
 - 장바구니
 - 상품검색
 - 상품등록
@@ -24,12 +24,12 @@
 # 설치 순서
 
 ```
-git clone https://github.com/sudalking94/ProShop/
-pipenv sync
-pipenv shell
-cd backend
-python manage.py runserver
-cd frontend
-npm i
-npm start
+$ git clone https://github.com/sudalking94/ProShop/
+$ pipenv sync
+$ pipenv shell
+$ cd backend
+$ python manage.py runserver
+$ cd frontend
+$ npm i
+$ npm start
 ```
