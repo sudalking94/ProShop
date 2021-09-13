@@ -20,6 +20,7 @@
 - Postgresql
 - Pgadmin4
 - VS CODE
+- Postman
 
 # 필수 설치 항목
 
@@ -87,3 +88,6 @@ $ npm start
 
 ## 유저목록
 ![proshop-userlist](https://user-images.githubusercontent.com/67311672/133042194-cb3ce2e6-7c90-4222-b3c4-78a2c704820a.jpg)
+
+## 상품 api
+![proshop-product-api](https://user-images.githubusercontent.com/67311672/133044054-5bb25060-b144-4cc7-a087-2f74aeccc30c.jpg)
