@@ -18,7 +18,7 @@
 - React-bootstrap
 - Redux
 - Postgresql
-- Pgadmin4
+- DBeaver
 - VS CODE
 - Postman
 
